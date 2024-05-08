@@ -1,4 +1,4 @@
-# Resumos Git e Github 
+# Resum Git e Github 
 
 Repositorio resumoa sobre git e gitHub do curso Versionamento de codigo com git e gitHub da [Digital Innovation One](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer?tab=path). 
 
